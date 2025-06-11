@@ -1,0 +1,47 @@
+#root {
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: #334557; /* Light gray background */
+}
+
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.App {
+  text-align: center;
+  color: black;
+  background-color: #334557;
+  min-width: 80%;
+  min-height: 100vh;
+  max-width: 97%;
+  max-height: 97%
+  ;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f0f0f0; /* Light gray text */
+}
+
+.banner {
+  padding: 0rem;
+  height: 20%;
+  min-width: 100%;
+  border-radius: 0.5rem;
+  background-color: transparent;
+  background: transparent;
+  align-items: top;
+}
