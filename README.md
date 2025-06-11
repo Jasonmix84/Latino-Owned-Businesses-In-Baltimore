@@ -47,6 +47,7 @@ GIF created with LICEcap
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had a very difficult time trying to figure out the CSS for the site. I hope it all looks fine on other devices. I also had a difficult time completing on time. I need to start sooner.
 
 ## License
 
