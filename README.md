@@ -1,10 +1,10 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jason Rojas**
 
-This web app: **insert description**
+This web app: **This is my submission for Code Path's Web Dev 102 Week 1 Project, Community Board. I created a Commuunity Board that shows multiple Latino Owned Businesses In Baltimore, Maryland.**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 

@@ -1,7 +1,7 @@
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 4%;
+    gap: 3.5%;
     padding: 1rem;
     justify-items: center; 
 }
@@ -9,7 +9,7 @@
 .Business {
     background-color: white;
     padding: 1rem;
-    border-radius: 0.5rem;
+    border-radius: .5rem;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Equivalent to shadow-md */
     display: flex;
     flex-direction: column;
